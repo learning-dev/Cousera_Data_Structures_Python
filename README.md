@@ -2,7 +2,7 @@
 Course In Data Structures in Python by University Of Michingan 
 https://www.coursera.org/learn/python-data
 
-Solutions are reference only. 
+Solutions are for reference only. 
 
 Please do not Cheat yourself by copying the solutions. 
 
